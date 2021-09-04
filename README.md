@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Midolii
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Midolii/Midolii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 一个来自中国北方的大学生
+- 慢慢学习
+- 就这样
